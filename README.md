@@ -1,6 +1,7 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+forked from https://github.com/StephenGrider/ReduxSimpleStarter/tree/separate-store
+cloned repo, checked out branch separate-store, made into new repo
 
 ### Getting Started
 
